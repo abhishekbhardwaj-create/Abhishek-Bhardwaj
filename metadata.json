@@ -1,0 +1,5 @@
+{
+  "name": "HireMatch AI",
+  "description": "An AI-powered job search assistant that analyzes resume-job fit, generates tailored bullet points, cover letters, and referral strategies.",
+  "requestFramePermissions": []
+}
